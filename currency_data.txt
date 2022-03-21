@@ -1,0 +1,64 @@
+US Dollar	0.013148	76.059848
+Euro	0.011911	83.958413
+British Pound	0.009989	100.112870
+Australian Dollar	0.017752	56.332690
+Canadian Dollar	0.016616	60.184606
+Singapore Dollar	0.017835	56.068614
+Swiss Franc	0.012288	81.378896
+Malaysian Ringgit	0.055130	18.138988
+Japanese Yen	1.567653	0.637896
+Chinese Yuan Renminbi	0.083635	11.956669Alphabetical orderMar 18, 2022 15:47 UTC
+Indian Rupee	1.00 INR	 1.00 INR
+Argentine Peso	1.441422	0.693759
+Australian Dollar	0.017752	56.332690
+Bahraini Dinar	0.004943	202.286830
+Botswana Pula	0.152016	6.578268
+Brazilian Real	0.066155	15.116070
+British Pound	0.009989	100.112870
+Bruneian Dollar	0.017835	56.068614
+Bulgarian Lev	0.023295	42.927255
+Canadian Dollar	0.016616	60.184606
+Chilean Peso	10.552975	0.094760
+Chinese Yuan Renminbi	0.083635	11.956669
+Colombian Peso	50.198915	0.019921
+Croatian Kuna	0.090146	11.093142
+Czech Koruna	0.295320	3.386154
+Danish Krone	0.088629	11.282971
+Emirati Dirham	0.048284	20.710646
+Euro	0.011911	83.958413
+Hong Kong Dollar	0.102859	9.722090
+Hungarian Forint	4.471765	0.223625
+Icelandic Krona	1.697755	0.589013
+Indonesian Rupiah	188.553488	0.005304
+Iranian Rial	556.790572	0.001796
+Israeli Shekel	0.042650	23.446737
+Japanese Yen	1.567653	0.637896
+Kazakhstani Tenge	6.687146	0.149541
+Kuwaiti Dinar	0.003996	250.219713
+Libyan Dinar	0.061133	16.357844
+Malaysian Ringgit	0.055130	18.138988
+Mauritian Rupee	0.581961	1.718329
+Mexican Peso	0.268476	3.724732
+Nepalese Rupee	1.600750	0.624707
+New Zealand Dollar	0.019065	52.453354
+Norwegian Krone	0.115266	8.675608
+Omani Rial	0.005055	197.814949
+Pakistani Rupee	2.376500	0.420787
+Philippine Peso	0.688080	1.453319
+Polish Zloty	0.056163	17.805418
+Qatari Riyal	0.047857	20.895563
+Romanian New Leu	0.058921	16.971973
+Russian Ruble	1.375160	0.727188
+Saudi Arabian Riyal	0.049303	20.282626
+Singapore Dollar	0.017835	56.068614
+South African Rand	0.196854	5.079913
+South Korean Won	15.940697	0.062733
+Sri Lankan Rupee	3.648937	0.274052
+Swedish Krona	0.123988	8.065327
+Swiss Franc	0.012288	81.378896
+Taiwan New Dollar	0.372717	2.682999
+Thai Baht	0.438225	2.281932
+Trinidadian Dollar	0.089126	11.220093
+Turkish Lira	0.194854	5.132057
+US Dollar	0.013148	76.059848
+Venezuelan Bolivar	5639.671772	0.000177
